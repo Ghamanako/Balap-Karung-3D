@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 2d155cb42bd0f3042a0be45a1cc6c6d2
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Glass
+    second: {fileID: 2100000, guid: 49003f11c8600e34e982c84f7d14c03e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building 1
+    second: {fileID: 2100000, guid: cccfd9211d1af044f8507833b9d94306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building 2
+    second: {fileID: 2100000, guid: 44f8837d376c29e4d9a9a6227e7aa16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 81558cc01277dfb44ba4c4a3f85d8b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame Putih
+    second: {fileID: 2100000, guid: 45e1f02ac4b67a745becd1333c4cb545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a72c21ff4d7df97428584f7601f0e55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: a51e2be1f3456174da291337887691d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.007
+    second: {fileID: 2100000, guid: a20b2d4dfb53d6e4aad8ffd861c12573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.008
+    second: {fileID: 2100000, guid: 220c02faa9fc9db48b7358050b5fbe8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.009
+    second: {fileID: 2100000, guid: 3326b2ff70e37e74bbbbd1ffb22df29f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.010
+    second: {fileID: 2100000, guid: e0219859319fb424aba48c8f045944dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.011
+    second: {fileID: 2100000, guid: eadc3e41345233d4dae916b1617b0be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.012
+    second: {fileID: 2100000, guid: aa045c7c573336041868d49a63072b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.013
+    second: {fileID: 2100000, guid: ba2efd16b415ed449bd78803b70e7ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.014
+    second: {fileID: 2100000, guid: 6dc832d68e7449e4686541f0f8079ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.016
+    second: {fileID: 2100000, guid: 951577dcb695d734c8c5f5251ca64ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.017
+    second: {fileID: 2100000, guid: 73e84a2ce7f235940aa850aea60388c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.018
+    second: {fileID: 2100000, guid: d3f6778ddb8e44b42b2ae774717e73a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.019
+    second: {fileID: 2100000, guid: 2cd2ac145db5e0a4c8469a5fe171c480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.020
+    second: {fileID: 2100000, guid: ea69d069a57458848856ac22b204ac68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.021
+    second: {fileID: 2100000, guid: e29e67a847083b844bcc6793fbdc50db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.022
+    second: {fileID: 2100000, guid: 0f918a9d33246694187f3c4addaae199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.023
+    second: {fileID: 2100000, guid: 8e36fc6c8b006654183a42efac959d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.024
+    second: {fileID: 2100000, guid: 7fa55107cc63dd149aa8f236264edb04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.025
+    second: {fileID: 2100000, guid: c9fcea8c40347d84fbfeb1df4e9cd90f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.026
+    second: {fileID: 2100000, guid: 6cf86cbd89124514a9fd422620c6f0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.027
+    second: {fileID: 2100000, guid: 3cce6f47960e7ba48bf674d80ed5572b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.028
+    second: {fileID: 2100000, guid: 86eaa77c8bd37e94a856d22f894fb7a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.029
+    second: {fileID: 2100000, guid: f1b337f26716eb84e80e12250ab77244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.030
+    second: {fileID: 2100000, guid: 15a1cac1f47f8bb4bbae0a1c91c5d20f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.031
+    second: {fileID: 2100000, guid: 624b6245b63c76c4cb10353d2b1c3f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.032
+    second: {fileID: 2100000, guid: 4d50e8bb4390dfd4a99d766f6d0e79ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.033
+    second: {fileID: 2100000, guid: b4fa07a4ff884d74bad6daa32ed7bb51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.034
+    second: {fileID: 2100000, guid: 3e52319b9f6a12d449362b479d2258fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.035
+    second: {fileID: 2100000, guid: c8105f7fbf343e444a5112dacc0a9c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.036
+    second: {fileID: 2100000, guid: 249a72c90ec94d248b70b92ca652e97e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.037
+    second: {fileID: 2100000, guid: 2e4f181e1d27cea49ae555082238033f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.038
+    second: {fileID: 2100000, guid: 6c81457ed5aab564e89dd77fe0987885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.039
+    second: {fileID: 2100000, guid: b404a396db84e614f924cba65d9a4215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.040
+    second: {fileID: 2100000, guid: 4255efe228559c146975a6ff9edcd875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.041
+    second: {fileID: 2100000, guid: f1cd72ce995760942b0bc60886f9894d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.042
+    second: {fileID: 2100000, guid: 22cc7373587632c428ff0e1c1a259407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.043
+    second: {fileID: 2100000, guid: bf54c22b7a923f24eb5006556ead00e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.044
+    second: {fileID: 2100000, guid: fbd88d32dda826d45a82074e4b123d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.045
+    second: {fileID: 2100000, guid: 678b72e7d8156664e87cea64a793e86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.046
+    second: {fileID: 2100000, guid: 577b3f36e229e79439a11e640004dc12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.047
+    second: {fileID: 2100000, guid: 46345865fa704e448aef9920b59c6d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.048
+    second: {fileID: 2100000, guid: 520553d40bf5ee849b0b487aa0add6ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.049
+    second: {fileID: 2100000, guid: 5c94422c15738b34587a47cbc4be1ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.050
+    second: {fileID: 2100000, guid: 9ba369d46102e224594ea11205331d73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.051
+    second: {fileID: 2100000, guid: 4e21902e07a18384cb9f1d14c985dcfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.052
+    second: {fileID: 2100000, guid: c56b11640d1bc594ca3c643124e0edf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.053
+    second: {fileID: 2100000, guid: f44108303bdca3247a0a903edbc13ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.054
+    second: {fileID: 2100000, guid: f5e3381920e82eb40b3dbbab6e10a440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.055
+    second: {fileID: 2100000, guid: 1fc481a756540bc42a406b7217e3502d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.056
+    second: {fileID: 2100000, guid: 555d7ae57d2a37a4a88a642b87e7e2c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.057
+    second: {fileID: 2100000, guid: 42c99bd7826238c4593c8319a64ef2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.058
+    second: {fileID: 2100000, guid: 18dc69db8732f534d9f206314d4d61fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.059
+    second: {fileID: 2100000, guid: 56220190d26f5fc488dbdfe3583f3003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.060
+    second: {fileID: 2100000, guid: d5d0c5f31e52f744db35a130e8afe17a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.061
+    second: {fileID: 2100000, guid: 69177a1c495116f41924d9db31508090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.062
+    second: {fileID: 2100000, guid: 0df4e3a08a936884d803dfbc29b91623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.063
+    second: {fileID: 2100000, guid: 5f92e7b560eed1747ba2c31745ad107b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.064
+    second: {fileID: 2100000, guid: 8b83f7a84eed21d449118e226073dd16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.065
+    second: {fileID: 2100000, guid: 424ff340ab7299b469a3fc027b6a7f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.066
+    second: {fileID: 2100000, guid: 311cdd235162f1b4cad6b92fbdceb2b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.067
+    second: {fileID: 2100000, guid: 32efda7725a6a184987411c3f21ec006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.068
+    second: {fileID: 2100000, guid: 5ebd02471f9adfa43a96147f017cb587, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.069
+    second: {fileID: 2100000, guid: c94a773260f2198489f0425607a1d7dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.070
+    second: {fileID: 2100000, guid: f750ea6ecd1013a41851e64285ccaabb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.071
+    second: {fileID: 2100000, guid: 3dac0286b9a7fad4f8b0fdc4a61df729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof.072
+    second: {fileID: 2100000, guid: b57d27be8c83e4d478730486f11e79a7, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
